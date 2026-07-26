@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes un README.md completo y profesional para tu aplicación:
-
-```markdown
 # 📋 Clipboard Logger Pro
 
 Aplicación de escritorio para capturar y estructurar datos desde el portapapeles, diseñada para facilitar la entrada de datos repetitiva y organizada.
@@ -273,21 +270,3 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 **Hecho con ❤️ para facilitar la captura de datos**
 
 *Si te gusta este proyecto, no olvides darle una ⭐ en GitHub*
-```
-
-## Archivo requirements.txt
-
-También te recomiendo crear un archivo `requirements.txt`:
-
-```txt
-pyperclip>=1.8.2
-```
-
-## Instrucciones para usar el README
-
-1. **Personaliza los enlaces**: Reemplaza `tu-usuario` con tu usuario de GitHub
-2. **Ajusta la información del autor**: Coloca tu nombre y datos de contacto
-3. **Modifica ejemplos**: Adapta los ejemplos a tu caso de uso específico
-4. **Actualiza licencia**: Si usas otra licencia, modifica esa sección
-
-## ¿Quieres que añada algo más al README o que ajuste alguna sección?
