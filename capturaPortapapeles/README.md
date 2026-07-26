@@ -240,15 +240,6 @@ pip install pyperclip
 - [ ] Notificaciones de sistema
 - [ ] Historial de sesiones
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 👤 Autor
-
-**Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-email@ejemplo.com
 
 ## 🤝 Contribuciones
 
